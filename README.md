@@ -1,2 +1,2 @@
 # Ejercicio1_python
-Promedio de notas
+Adivina el numero
